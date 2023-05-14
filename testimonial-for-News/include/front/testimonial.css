@@ -1,0 +1,47 @@
+.para{
+    display: none;
+
+}
+
+
+.hide-para-btn{
+
+    display:none;border:none; border-radius:5px; padding: 5px;font-size:15px; color:white; background-color:#7CB878;
+}
+.show-para-btn{
+    border:none; border-radius:5px; padding: 5px;font-size:15px; color:white; background-color:#1A73E8;
+}
+.showpara{
+
+    text-decoration:none;color:black;
+
+}
+.ptitle{
+    text-decoration:none;
+    color:black;
+}
+
+
+
+.para1{
+    display: none;
+
+}
+
+
+.hide-para-btn1{
+
+    display:none;border:none; border-radius:5px; padding: 5px;font-size:15px; color:white; background-color:#7CB878;
+}
+.show-para-btn1{
+    border:none; border-radius:5px; padding: 5px;font-size:15px; color:white; background-color:#1A73E8;
+}
+.showpara1{
+
+    text-decoration:none;color:black;
+
+}
+.ptitle1{
+    text-decoration:none;
+    color:black;
+}
